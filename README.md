@@ -2,6 +2,8 @@
 
 An end-to-end data analytics project analyzing short-term rental performance across 10 major US cities using MySQL and Tableau. The project covers data ingestion, SQL-based transformation and feature engineering, exploratory data analysis, and an interactive multi-view dashboard.
 
+Click the image below to interact with the full dashboard on Tableau Public.
+[![Airbnb Dashboard Preview](https://github.com/asfernando02/saas_sales/blob/main/sales_dashboard_preview.png)](https://public.tableau.com/views/SaaSSalesDashboard_17746537286700/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Data
 Source: airroi.com - Proprietary short-term rental market data covering Airbnb listings and monthly review activity.
